@@ -115,5 +115,3 @@ Every lesson will have:
 * Secure the cluster
 * Monitor it
 * Troubleshoot common problems
-
-If you meant **Amazon Aurora specifically**, rather than **Amazon DocumentDB**, say **“Aurora”** and I’ll make the 10 lessons strictly about Aurora.

@@ -18,12 +18,19 @@
 Every lesson will have:
 
 **1. Concept** → understand *what it is*
+
 **2. Why it matters** → understand *why AWS uses it*
+
 **3. Architecture** → visualize *how it works*
+
 **4. Commands / code** → actually use it
+
 **5. Real-world example** → see where it fits
+
 **6. Hands-on exercise** → practice it
+
 **7. Interview questions** → prepare for interviews
+
 **8. Mini quiz** → verify you understood it
 
 
